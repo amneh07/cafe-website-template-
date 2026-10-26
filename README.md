@@ -69,3 +69,14 @@ This project focuses on the frontend experience. The reservation interface is cu
 Amneh
 
 - GitHub: "@amneh07" (https://github.com/amneh07)
+
+## 📸 Screenshots
+
+### Homepage
+![Cafe Website Homepage](public/screenshots/homepage.png)
+
+### Menu
+![Cafe Menu Page](public/screenshots/menu.png)
+
+### Gallery
+![Cafe Gallery Page](public/screenshots/reservation.png)
